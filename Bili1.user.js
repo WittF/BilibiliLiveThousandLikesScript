@@ -1,7 +1,5 @@
 // ==UserScript==
 // @name         Bili千赞脚本
-// @namespace    https://space.bilibili.com/35192025
-// @supportURL   https://space.bilibili.com/35192025
 // @version      1.0.0
 // @description  自动将直播间点赞数提交为1000次
 // @author       WittF
